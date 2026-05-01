@@ -1,5 +1,7 @@
 # React + Vite
 
+#Nexora AI is a next-generation AI assistant designed to simplify work and automate tasks.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
