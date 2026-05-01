@@ -1,0 +1,1 @@
+Nexora AI is a next-generation AI assistant designed to simplify work and automate tasks.
