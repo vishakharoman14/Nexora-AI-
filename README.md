@@ -2,7 +2,7 @@
 
 A next-generation AI chat assistant built with React and powered by Groq's Llama 3.3 70B model. Designed to feel like ChatGPT — fast, clean, and fully functional.
 
-![Nexora AI](./public/projects/Nexora-ai.webp)
+![Nexora AI](/public/projects/Nexora-ai.webp)
 
 ## ✨ Features
 
