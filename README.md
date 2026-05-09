@@ -2,6 +2,7 @@
 
 A next-generation AI chat assistant built with React and powered by Groq's Llama 3.3 70B model. Designed to feel like ChatGPT — fast, clean, and fully functional.
 
+<img width="1919" height="832" alt="image" src="https://github.com/user-attachments/assets/1ecf03a4-4965-48a2-990c-6bef1c5f14f4" />
 
 ## ✨ Features
 
